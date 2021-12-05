@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/jei.js</code>
+          Edit <code>src/youssef.js</code>
         </p>
         <a
           className="App-link"
